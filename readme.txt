@@ -5,3 +5,5 @@ inumidun
 pemisire
 
 
+doctor
+software developer
